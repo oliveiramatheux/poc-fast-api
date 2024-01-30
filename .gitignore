@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CPython
+__pycache__/
+*.pyc
+*.pyo/
+*.pyd/
+
+# Jython
+*.class
+
+# Stackless
+*.pyc
+*.pyo/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# SQLAlchemy
+*.sqlite
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+env/
+venv/
+virtualenv/
+env.bak/
+venv.bak/
+virtualenv.bak/
+
+# pycache
+.pytest_cache/
+
+# Uvicorn
+uvicorn.pid
+
+# FastAPI generated files
+__pycache__/
